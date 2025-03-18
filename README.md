@@ -19,7 +19,7 @@ Este proyecto es una aplicación web simple que permite realizar un sorteo de "A
 
 3. Abre el archivo index.html en tu navegador.
 
-Uso 📝
+## Uso 📝
 
 1. Escribe un nombre en el campo de texto y haz clic en el botón "Añadir" para agregarlo a la lista.
 
@@ -33,7 +33,7 @@ Uso 📝
 
     JavaScript
 
-Contribución 🤝
+## Contribución 🤝
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras, no dudes en realizar un fork del repositorio y enviar un pull request.
 Licencia 📜
