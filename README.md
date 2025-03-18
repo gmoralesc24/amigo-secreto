@@ -13,19 +13,19 @@ Este proyecto es una aplicación web simple que permite realizar un sorteo de "A
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
 
-Navega al directorio del proyecto:
+2. Navega al directorio del proyecto:
+   ```bash
+   cd amigo-secreto
 
-cd amigo-secreto
-
-Abre el archivo index.html en tu navegador.
+3. Abre el archivo index.html en tu navegador.
 
 Uso 📝
 
-    Escribe un nombre en el campo de texto y haz clic en el botón "Añadir" para agregarlo a la lista.
+1. Escribe un nombre en el campo de texto y haz clic en el botón "Añadir" para agregarlo a la lista.
 
-    Una vez que todos los nombres estén en la lista, haz clic en el botón "Sortear Amigo" para obtener un resultado aleatorio.
+2. Una vez que todos los nombres estén en la lista, haz clic en el botón "Sortear Amigo" para obtener un resultado aleatorio.
 
-Tecnologías 🔧
+## Tecnologías 🔧
 
     HTML
 
