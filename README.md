@@ -36,6 +36,7 @@ Este proyecto es una aplicación web simple que permite realizar un sorteo de "A
 ## Contribución 🤝
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias o mejoras, no dudes en realizar un fork del repositorio y enviar un pull request.
-Licencia 📜
+
+## Licencia 📜
 
 Este proyecto está licenciado bajo la MIT License.
